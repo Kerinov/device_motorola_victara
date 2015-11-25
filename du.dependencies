@@ -1,7 +1,8 @@
 [
   {
-    "repository": "android_device_qcom_common",
+    "repository": "DirtyUnicorns/android_device_qcom_common",
     "target_path": "device/qcom/common"
+    "branch":      "m-caf"
   },
   {
     "repository": "CyanogenMod/android_kernel_motorola_msm8974",
@@ -12,4 +13,9 @@
   "target_path": "system/qcom",
   "branch":      "m-caf"
   }
+  {
+    "repository": "AOSP-CAF/android_external_connectivity",
+    "target_path": "external/connectivity"
+    "branch":      "mm6.0"
+  },
 ]
