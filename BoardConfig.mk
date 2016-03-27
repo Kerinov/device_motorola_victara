@@ -174,3 +174,6 @@ KERNEL_TOOLCHAIN_PREFIX := arm-eabi-
 
 # Rom Toolchain
 TARGET_GCC_VERSION_EXP := 4.9-uber
+
+# Strict Aliasing
+STRICT := true
