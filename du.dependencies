@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_motorola_msm8974",
+    "target_path": "kernel/motorola/msm8974"
+  }
+  {
+  "repository": "DirtyUnicorns/android_system_qcom",
+  "target_path": "system/qcom",
+  "branch":      "m-caf"
+  }
+]
