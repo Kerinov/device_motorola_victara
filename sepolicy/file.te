@@ -1,10 +1,7 @@
 type adspd_data_file, file_type, data_file_type;
 type battery_data_file, file_type, data_file_type;
 type camera_dump_data_file, file_type, data_file_type;
-<<<<<<< HEAD
 type chargeonly_data_file, file_type, data_file_type;
-=======
->>>>>>> c4f4f60... victara: Allow rild to write in /data/misc/cutback
 type cutback_data_file, file_type, data_file_type;
 type fsg_file, file_type, data_file_type;
 type hwrev_data_file, file_type, data_file_type;
